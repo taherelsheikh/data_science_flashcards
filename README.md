@@ -1,7 +1,7 @@
-# Data Science Flashcards 
+<center># Data Science Flashcards </cetner>
 
-- Flashcards to make it easy to understand and memorize *Stats, ML, and Product Metrics.*  
-- Friends told me these cards were super helpful for interview prep 
+<center>- Flashcards to make it easy to understand and memorize *Stats, ML, and Product Metrics.*  </cetner>
+<center>- Friends told me these cards were super helpful for interview prep </cetner>
 
 <p float="left">
 <img src="flashcards-2.jpg" width="350">
