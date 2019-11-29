@@ -1,4 +1,4 @@
-<center># Data Science Flashcards </cetner>
+<center>Data Science Flashcards </cetner>
 
 <center>- Flashcards to make it easy to understand and memorize *Stats, ML, and Product Metrics.*  </cetner>
 <center>- Friends told me these cards were super helpful for interview prep </cetner>
