@@ -8,5 +8,6 @@
 <img src="flashcards-3.jpg" width="350">
 </p>
 
+### Contact 
 - Email me at taher@mysideproject.tech if you're interested in more cards
-- Please also let me know how would you order these three areas, stats & ML & product sense, in terms of importance? 
+- Please also let me know how would you order these three areas, stats & ML & product sense, in terms of importance 
